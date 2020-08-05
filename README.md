@@ -1,2 +1,2 @@
 # Java Programming
-## Practicing coding problems in Java.
+Practicing coding problems in Java.
